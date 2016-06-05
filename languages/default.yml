@@ -1,3 +1,6 @@
+menu:
+  archives: Archives
+
 index:
   archives: Archives
   archives_year: "Archives: %s"

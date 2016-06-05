@@ -1,9 +1,10 @@
 # Header
-menu:
+lang_menu:
   中文: /blog/zh
   English: /blog/en
-  存档: /blog/zh/archives
-rss: /blog/zh/atom.xml
+menu:
+  archives: archives
+rss: atom.xml
 
 # Content
 fancybox: false

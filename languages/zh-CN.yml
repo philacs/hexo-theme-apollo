@@ -1,3 +1,6 @@
+menu:
+  archives: 存档
+
 index:
   archives: 存档
   archives_year: 存档：%s
