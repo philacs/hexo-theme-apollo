@@ -1,11 +1,12 @@
 # Header
 menu:
-  主页: /
-  存档: /archives
-rss: /atom.xml
+  中文: /blog/zh
+  English: /blog/en
+  存档: /blog/zh/archives
+rss: /blog/zh/atom.xml
 
 # Content
-fancybox: true
+fancybox: false
 more_link: true
 
 # Miscellaneous
