@@ -1,7 +1,7 @@
 # Header
 lang_menu:
-  中文: /blog/zh
-  English: /blog/en
+  中文: /zh
+  English: /en
 menu:
   archives: archives
 rss: atom.xml
